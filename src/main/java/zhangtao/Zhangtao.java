@@ -13,5 +13,6 @@ public class Zhangtao {
         System.out.println("用户必须等");
         System.out.println("看看用户说什么吧");
         System.out.println("你们都不要说了");
+        System.out.println("我觉得。。。。。");
     }
 }
