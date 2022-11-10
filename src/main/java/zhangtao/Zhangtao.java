@@ -14,5 +14,6 @@ public class Zhangtao {
         System.out.println("看看用户说什么吧");
         System.out.println("你们都不要说了");
         System.out.println("我觉得。。。。。");
+        System.out.println("？？？？？？");
     }
 }
