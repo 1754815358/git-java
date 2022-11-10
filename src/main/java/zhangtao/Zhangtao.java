@@ -7,5 +7,6 @@ public class Zhangtao {
         System.out.println("hello3");
         System.out.println("紧急修复");
         System.out.println("用户等待三分钟");
+        System.out.println("用户等待2分钟");
     }
 }
