@@ -9,5 +9,6 @@ public class Zhangtao {
         System.out.println("用户等待三分钟");
         System.out.println("用户等待2分钟");
         System.out.println("用户必须等");
+        System.out.println("看看用户说什么吧");
     }
 }
