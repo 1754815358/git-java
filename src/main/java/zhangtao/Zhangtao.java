@@ -8,6 +8,8 @@ public class Zhangtao {
         System.out.println("紧急修复");
         System.out.println("用户等待三分钟");
         System.out.println("用户等待2分钟");
+        System.out.println("用户不想等了");
+        System.out.println("用户说：是的不想等了");
         System.out.println("用户必须等");
         System.out.println("看看用户说什么吧");
     }
