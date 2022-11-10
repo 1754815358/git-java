@@ -12,5 +12,6 @@ public class Zhangtao {
         System.out.println("用户说：是的不想等了");
         System.out.println("用户必须等");
         System.out.println("看看用户说什么吧");
+        System.out.println("你们都不要说了");
     }
 }
